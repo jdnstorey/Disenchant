@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Disenchant:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Disenchant_jar</output-path>
+    <root id="archive" name="Disenchant.jar">
+      <element id="module-output" name="Disenchant" />
+    </root>
+  </artifact>
+</component>
